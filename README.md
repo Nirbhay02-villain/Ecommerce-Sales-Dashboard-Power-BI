@@ -1,6 +1,6 @@
 # Ecommerce-Sales-Dashboard-Power-BI
 
-Welcome to the Ecommerce Sales Dashboard repository! This Power BI Desktop project is designed to empower the owner with comprehensive insights into their online sales performance across India.
+Welcome to the E-commerce Sales Dashboard repository! This Power BI Desktop project is designed to empower the owner with comprehensive insights into their online sales performance across India.
 
 # Primary Objective
 
@@ -12,6 +12,17 @@ To access and engage with the dashboard, you'll require Power BI Desktop. You ca
 
 # Data Source
 
-The sales data is stored in CSV format, divided into two files. The project unfolded through the following steps:
+The sales data is stored in CSV format, and divided into two files. The project unfolded through the following steps:
 
-  1. * Extract the data * : The sales data was extracted from the provided CSV files. 
+  1. **Extract the Data:** The sales data was extracted from the provided CSV files.
+  2. **Transform the Data:** Power BI's Power Query editor was utilized to transform and clean the raw data, making it suitable for analysis.
+  3. **Load the Data in Power BI:** The transformed data was loaded into Power BI for visualization and analysis. 
+
+# Project Learning
+
+Throughout this project, the application of the following key skills and techniques took precedence:
+
+  1. **Interactive Dashboard Creation:** Developed an interactive dashboard facilitating seamless exploration of online sales data for users.
+  2. **Advanced Visualization Techniques:** Implemented complex parameters, filters, and slicers to enable dynamic and detailed data exploration.
+  3. **Data Manipulation and Calculation:** Created connections, joined new tables and performed calculations to manipulate data and enhance visualizations.
+  4. **Customized Visualizations:** Utilized various customized visualizations such as bar charts, donut charts, clustered bar charts, slicers, etc., to present data effectively.
