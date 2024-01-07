@@ -31,3 +31,11 @@ Throughout this project, the application of the following key skills and techniq
 
 ![1](https://github.com/Nirbhay02-villain/Ecommerce-Sales-Dashboard-Power-BI/assets/61178899/c598c3ba-0326-4b14-911b-0f0045aa6e76)
 
+# Sales Overview Dashboard Qtr 1
+
+![2](https://github.com/Nirbhay02-villain/Ecommerce-Sales-Dashboard-Power-BI/assets/61178899/67c853c6-cc2d-4400-9ae5-d673673e41cd)
+
+# Sales Overview DASHBOARD (Sorted With State for e.g Bihar)
+
+![7](https://github.com/Nirbhay02-villain/Ecommerce-Sales-Dashboard-Power-BI/assets/61178899/63597b23-25dd-40f7-8566-d901481bf3d7)
+
